@@ -1,0 +1,126 @@
+.content {
+    background-color: white;
+    background-image: none;
+    overflow: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.content img {
+    width: 50%;
+    top: 0;
+}
+
+.results {
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1%;
+    margin-top: 4%;
+}
+
+.results h3 {
+    margin: 1.5%;
+    width: 95%;
+    font-family: "Roboto";
+    line-height: 2.33rem;
+    font-size: 1.4rem;
+    font-weight: 300;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 7%;
+}
+.images img {
+    width: 40%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 10px;
+}
+.images img:hover {
+    border-style: solid;
+    border-width: 5px;
+    border-color: deepskyblue;
+}
+
+.process {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8%;
+}
+.btn {
+    width: 30%;
+    padding: 3% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: rgb(0, 130, 185);
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-size: 1.4rem;
+    font-weight: 600;
+    text-align: center;
+    -webkit-transition-duration: 0.2s; /* Safari */
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+.btn:hover {
+  box-shadow: 0 12px 24px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.guess {
+    height: 8vh;
+    width: 50%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: gray;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.guess h3 {
+    text-align: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: limegreen
+}
+
+.repo_grp {
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.repo {
+    margin-top: 6%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.repo a{
+    margin-left: 2%;
+    text-decoration: none;
+    font-family: "Roboto";
+    font-size: 1.33rem;
+}
