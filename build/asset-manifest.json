@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/biotech_webapp/static/css/main.75476397.css",
+    "main.js": "/biotech_webapp/static/js/main.477f535b.js",
+    "static/media/code.png": "/biotech_webapp/static/media/code.e4f99ea38405827096d9.png",
+    "static/media/resume.pdf": "/biotech_webapp/static/media/resume.eef4e37201230fe7ec5b.pdf",
+    "static/media/profile.JPG": "/biotech_webapp/static/media/profile.2800bd9fe9d8e7aef59f.JPG",
+    "static/media/biotech_banner.png": "/biotech_webapp/static/media/biotech_banner.1db95ab611c2de286da5.png",
+    "static/media/application.pdf": "/biotech_webapp/static/media/application.c8004778347c5bde940e.pdf",
+    "static/media/inf_img1.png": "/biotech_webapp/static/media/inf_img1.3cf8daf135bc456e0855.png",
+    "static/media/uninf_img2.png": "/biotech_webapp/static/media/uninf_img2.f5a025d8953df8448925.png",
+    "static/media/inf_img2.png": "/biotech_webapp/static/media/inf_img2.ffeef4093a7b01939c4e.png",
+    "static/media/loader.svg": "/biotech_webapp/static/media/loader.f617fc969ee3e10edf9f6dac73a556c8.svg",
+    "index.html": "/biotech_webapp/index.html",
+    "main.75476397.css.map": "/biotech_webapp/static/css/main.75476397.css.map",
+    "main.477f535b.js.map": "/biotech_webapp/static/js/main.477f535b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75476397.css",
+    "static/js/main.477f535b.js"
+  ]
+}
