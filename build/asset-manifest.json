@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/biotech_webapp/static/css/main.75476397.css",
+    "main.css": "/biotech_webapp/static/css/main.58814c6c.css",
     "main.js": "/biotech_webapp/static/js/main.477f535b.js",
     "static/media/code.png": "/biotech_webapp/static/media/code.e4f99ea38405827096d9.png",
     "static/media/resume.pdf": "/biotech_webapp/static/media/resume.eef4e37201230fe7ec5b.pdf",
@@ -12,11 +12,11 @@
     "static/media/inf_img2.png": "/biotech_webapp/static/media/inf_img2.ffeef4093a7b01939c4e.png",
     "static/media/loader.svg": "/biotech_webapp/static/media/loader.f617fc969ee3e10edf9f6dac73a556c8.svg",
     "index.html": "/biotech_webapp/index.html",
-    "main.75476397.css.map": "/biotech_webapp/static/css/main.75476397.css.map",
+    "main.58814c6c.css.map": "/biotech_webapp/static/css/main.58814c6c.css.map",
     "main.477f535b.js.map": "/biotech_webapp/static/js/main.477f535b.js.map"
   },
   "entrypoints": [
-    "static/css/main.75476397.css",
+    "static/css/main.58814c6c.css",
     "static/js/main.477f535b.js"
   ]
 }
